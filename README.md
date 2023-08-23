@@ -12,7 +12,7 @@ This Django project allows users to register with their email addresses and veri
 - User login with username and password.
 - User logout.
 ## Result
-
+# Django User Registration with Email Confirmation Link Verification
 
 https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/assets/65544518/5fa7f917-d4cb-41b6-bfa0-f0500cfadfee
 
