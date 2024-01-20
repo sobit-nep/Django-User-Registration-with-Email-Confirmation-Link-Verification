@@ -1,5 +1,6 @@
 # Django User Registration with Email Confirmation Link Verification
-
+[![GitHub Stars](https://img.shields.io/github/stars/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification.svg?style=flat&logo=github&colorB=blue&label=stars)](https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification.svg?style=flat&logo=github&colorB=blue&label=forks)](https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/network/members)
 This Django project allows users to register with their email addresses and verifies their email through a confirmation link sent via email.
 
 ## Features
